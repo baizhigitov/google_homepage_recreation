@@ -3,4 +3,4 @@ Hi 🙋‍♂️,
 
 # This is my project for TheOdinProject plaform
 
-### [Here is the project itself]: https://baizhigitov.github.io/google_homepage_recreation/
+### [Here is the project itself] (https://baizhigitov.github.io/google_homepage_recreation/)
